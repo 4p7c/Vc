@@ -16,7 +16,7 @@ export default [
 
             enabled: true,
 
-            delay: 50, // ثواني
+            delay: 5, // ثواني
 
             maxRetries: 5,
 
