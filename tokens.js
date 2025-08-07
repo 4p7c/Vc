@@ -4,7 +4,7 @@ export default [
 
     {
 
-        channelId: "1402693875356925993",
+        channelId: "1402895543742763131",
 
         serverId: "1237419554167197817",
 
